@@ -1,0 +1,7 @@
+C:\Users\sebas\source\repos\Proyecto_Biblioteca\Proyecto_Biblioteca\obj\Debug\net6.0\Proyecto_Biblioteca.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\Proyecto_Biblioteca\Proyecto_Biblioteca\obj\Debug\net6.0\Proyecto_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\source\repos\Proyecto_Biblioteca\Proyecto_Biblioteca\obj\Debug\net6.0\Proyecto_Biblioteca.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\Proyecto_Biblioteca\Proyecto_Biblioteca\obj\Debug\net6.0\Proyecto_Biblioteca.AssemblyInfo.cs
+C:\Users\sebas\source\repos\Proyecto_Biblioteca\Proyecto_Biblioteca\obj\Debug\net6.0\Proyecto_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\Proyecto_Biblioteca\Proyecto_Biblioteca\obj\Debug\net6.0\Proyecto_Biblioteca.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sebas\source\repos\Proyecto_Biblioteca\Proyecto_Biblioteca\obj\Debug\net6.0\Proyecto_Biblioteca.MvcApplicationPartsAssemblyInfo.cache
